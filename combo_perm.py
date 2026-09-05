@@ -25,3 +25,4 @@ for i in range(len(user_digits)):
 # IF DIGIT IS 0 DO NOT PLACE AT START OF COMBINATION
 
 # I can start by ordering all numbers from least to greates, leaving any 0s to trail
+# Going to study DSA to see if it helps at some point
